@@ -29,4 +29,24 @@
 .tim{
     margin: 20px 10px;
 }
-    
+table{
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+thead{
+    color: aliceblue;
+    background-color:rgb(74, 120, 247);
+    text-align: left;
+}
+
+
+
+.celesti{
+    background-color: lightskyblue;
+}
+
+td{
+    padding: 5px;
+    width: calc( 100% / 9 )
+}
