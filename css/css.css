@@ -6,6 +6,8 @@
 }
 
 .sfondo {
+    
+
     background-image:url(../img/pattern.png) ;
     background-color: cornflowerblue;
     background-size: 350px;
@@ -49,4 +51,34 @@ thead{
 td{
     padding: 5px;
     width: calc( 100% / 9 )
+}
+
+.monitor{
+
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    background-image:url(../img/monitor.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.graph{
+
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    background-image:url(../img/graph.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
 }
