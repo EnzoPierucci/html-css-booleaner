@@ -5,7 +5,7 @@
     text-transform: capitalize;
 }
 
-section{
+.sfondo {
     background-image:url(../img/pattern.png) ;
     background-color: cornflowerblue;
     background-size: 350px;
