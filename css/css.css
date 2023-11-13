@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
+
+section{
+    background-image:url(../img/pattern.png) ;
+    background-color: cornflowerblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    }
