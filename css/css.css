@@ -8,7 +8,21 @@
 section{
     background-image:url(../img/pattern.png) ;
     background-color: cornflowerblue;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-size: 350px;
+    background-repeat: repeat;
     
-    }
+    
+    
+    height: 90px;
+    
+    
+}
+
+#logo{
+    
+    height: 55px;
+    margin-left: 10px;
+    margin-top: 30px;
+    
+}
+    
